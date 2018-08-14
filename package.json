@@ -1,0 +1,14 @@
+{
+  "name": "pered",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/naisuchan/pered.git",
+  "author": "ku?t <nani@omaewamoushindei.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "redux-observable": "^1.0.0",
+    "rxjs": "^6.2.2"
+  }
+}

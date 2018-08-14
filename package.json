@@ -1,8 +1,8 @@
 {
-  "name": "pered",
+  "name": "naisu",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com/naisuchan/pered.git",
+  "repository": "https://github.com/naisuchan/naisu.git",
   "author": "ku?t <nani@omaewamoushindei.ru>",
   "license": "MIT",
   "dependencies": {
